@@ -1,0 +1,10 @@
+{
+  "pairs": 20,
+  "epochs": 1,
+  "steps": 5,
+  "loss_first": 10.662557601928711,
+  "loss_last": 10.607210159301758,
+  "torch": "2.7.1+cu118",
+  "device": "cuda",
+  "model": "smoke-gpt2"
+}

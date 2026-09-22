@@ -1,3 +1,7 @@
-# M1: stdlib only. M2 adds torch ROCm wheel + transformers + vllm-rocm.
+# M1: stdlib only (pytest, numpy). M2 cloud train adds:
 pytest>=7
 numpy>=1.26
+torch>=2.4
+transformers>=4.44
+peft>=0.12
+accelerate>=0.33
