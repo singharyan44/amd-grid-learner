@@ -1,0 +1,3 @@
+# M1: stdlib only. M2 adds torch ROCm wheel + transformers + vllm-rocm.
+pytest>=7
+numpy>=1.26
